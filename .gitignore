@@ -2,3 +2,6 @@ node_modules
 bower_components
 .DS_Store
 *.log
+
+.idea/vcs.xml
+.idea/workspace.xml
