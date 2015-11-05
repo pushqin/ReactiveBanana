@@ -1,5 +1,9 @@
 # ReactiveBanana
 
+# Install
+
+```npm i kobi-kadosh/ReactiveBanana --save```
+
 Get the AMD module located at `reactivebanana.js` and include it in your project.
 
 Here is a sample integration:
