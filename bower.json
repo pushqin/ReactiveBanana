@@ -1,6 +1,7 @@
 {
   "name": "reactivebanana",
   "version": "1.0.0",
+  "main": "reactivebanana.js",
   "license": "MIT",
   "author": "",
   "private": true,
