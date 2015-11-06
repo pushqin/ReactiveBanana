@@ -2,7 +2,9 @@
 
 # Install
 
-```npm i kobi-kadosh/ReactiveBanana --save```
+npm bower install --save-dev
+
+```npm i bower kobi-kadosh/ReactiveBanana --save```
 
 Get the AMD module located at `reactivebanana.js` and include it in your project.
 
